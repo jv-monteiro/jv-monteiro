@@ -1,5 +1,5 @@
 
-<div>
+<div display"inline-block">
     <a href="https://github.com/jv-monteiro"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-monteiro&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-monteiro&layout=compact&theme=radical"/>
